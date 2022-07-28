@@ -398,19 +398,6 @@ button:hover::after {
 
 
 
-    
-
-.it{
-    width: 200px;
-    height: 200px;
-    position: relative;
-    display: flex;
-    left: 640px;
-    top: 20px;
-}
-
-
-
 /* a:hover{
     font-size: 20px;
     background-color: black;
