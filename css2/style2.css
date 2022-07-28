@@ -1,0 +1,12 @@
+a:hover{
+    font-size: 20px;
+    background-color: black;
+    color:white;
+}
+li{
+    display: inline;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
