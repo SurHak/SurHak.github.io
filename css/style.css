@@ -355,6 +355,62 @@ button:hover::after {
 }
 
 
+
+@media only screen and (min-width:600px) and (max-width:800px){
+   .o{
+    color: #6EED0A;
+   }
+
+}
+
+
+@media only screen and (min-width:600px) and (max-width:800px){
+    .w{
+     color: #6EED0A;
+    }
+}
+
+
+@media only screen and (min-width:600px) and (max-width:800px){
+    .q{
+     color:#6EED0A;
+    }
+}
+
+@media only screen and (min-width:600px) and (max-width:800px){
+    .e{
+     color:#6EED0A;
+    }
+}
+
+@media only screen and (min-width:600px) and (max-width:800px){
+    .r{
+     color:#6EED0A;
+    }
+}
+
+
+@media only screen and (min-width:600px) and (max-width:800px){
+.t{
+     color:#6EED0A;
+}
+}
+
+
+
+    
+
+.it{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    left: 640px;
+    top: 20px;
+}
+
+
+
 /* a:hover{
     font-size: 20px;
     background-color: black;
