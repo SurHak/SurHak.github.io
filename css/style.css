@@ -19,12 +19,16 @@
     font-size: 20px;
 }
 
+
 .im{
     position: relative;
     display: flex;
-    right: 1px; 
-    bottom: 60px;
+    left: 10px;
+    bottom: 55px;
+    width: 350px;
+    height: 450px;
 }
+
 
 .e{
     position: relative;
@@ -334,19 +338,18 @@ button:hover::after {
 }
 
 
-
 .r{
     display: flex;
     position: relative;
     left: 433px;
-    bottom: 580px;
+    bottom: 358px;
 }
 
 .t{
     display: flex;
     position: relative;
     left: 433px;
-    bottom: 585px;
+    bottom: 365px;
 }
 
 
